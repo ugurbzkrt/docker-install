@@ -1,5 +1,5 @@
 # docker-install
-# Ubuntu 18.04
+# Ubuntu
 
 Script
 
