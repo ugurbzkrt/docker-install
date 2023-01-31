@@ -3,4 +3,4 @@
 
 Script
 
-curl https://raw.githubusercontent.com/UgurBzkrt/docker-install/main/docker-script | bash -
+curl https://raw.githubusercontent.com/ugurbzkrt/docker-install/main/docker-script | bash -
