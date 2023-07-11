@@ -31,3 +31,4 @@ sudo systemctl start docker
 
 sudo systemctl enable docker
 
+# apt-cache madison docker-ce | awk '{ print $3 }'
