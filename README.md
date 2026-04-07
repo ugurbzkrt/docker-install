@@ -14,3 +14,8 @@ curl https://raw.githubusercontent.com/ugurbzkrt/docker-install/main/docker-22.0
 24.04 LTS
 
 curl https://raw.githubusercontent.com/ugurbzkrt/docker-install/main/24.04-LTS-docker.sh | bash -
+
+
+# Just one time run for multi arch image
+
+docker buildx create --name local-builder --use
